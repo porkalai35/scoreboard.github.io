@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;1,400&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-vector/gradient-white-monochrome-background_23-2149014955.jpg?size=626&ext=jpg");
+    background-size: cover;
+    padding:90px;
+    margin:15px;
+}
+
+
+
+.color{
+    color:white;
+    font-size: larger;
+    font-weight: 300;
+    background-color: crimson;
+    border:5px solid crimson;
+    border-radius: 8px;
+    padding:10px;
+    margin:10px;
+}
+
+.color:hover{
+    background-color:transparent;
+    color:crimson;
+    transition: all 0.3s ease;
+
+
+}
+.logo{
+    padding:5px;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    color:rgb(11, 19, 131);
+    font-size: 90px;
+    font-weight: 700;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    color:rgb(11, 19, 131);
+    font-size: 90px;
+    font-weight:700; 
+}
+
+form{
+    font-family: 'Poppins', sans-serif;
+    color:white;
+    font-size: larger;
+    font-weight: 700;
+}
+
+.text{
+    font-family: 'Poppins', sans-serif;
+    color:rgb(11, 19, 131);
+    font-size: 35px;
+    border:rgb(11, 19, 131) 2px solid;
+    border-radius: 10px;
+    
+}
+h3{
+    color:rgb(228, 21, 31);
+    font-size:25px;
+}
+
